@@ -1,0 +1,17 @@
+body{
+	background: white url("images/download.jpg");
+	background-repeat: no-repeat;
+    background-position: inherit;
+    background-size: 1380px 700px;
+}
+.navbar{
+	border-radius: 0;
+}
+.navbar-brand{
+	font-family: 'Satisfy', cursive;
+}
+ul {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
